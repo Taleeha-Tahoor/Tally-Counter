@@ -1,3 +1,3 @@
 # Tally Counter
 
-# Visit: tally-counter-theta.vercel.app
+# Visit: https://tally-counter-theta.vercel.app/
